@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá, seja bem vinda(o) ao meu Perfil!👋
+
+🩺 🪥 🪡 ♥️
+![image](https://user-images.githubusercontent.com/132674227/236487599-144f22f0-ac78-45e3-8040-81335cb66256.png)
+
 
 <!--
 **gihgallony/gihgallony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
